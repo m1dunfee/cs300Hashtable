@@ -1,0 +1,23 @@
+# Visual Studio Code settings (local configurations)
+.vscode/
+
+# Build output directories
+build/
+bin/
+Debug/
+Release/
+
+# Compiled object files, executables, and libraries
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Backup and temporary files
+*.log
+*.tmp
+*.swp
